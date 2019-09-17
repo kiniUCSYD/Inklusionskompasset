@@ -1,5 +1,5 @@
 /** Inklusionskompasset
- * 
+ *
  * All Righs Reserved
  * /
 
