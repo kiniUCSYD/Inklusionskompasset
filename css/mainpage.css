@@ -1,16 +1,23 @@
-﻿
+﻿/**
+    Inklusionskompasset
+
+    All Rigts Reserved
+
+*/
+
+
 @charset "UTF-8";
 @import url('https://fonts.googleapis.com/css?family=Merriweather|Roboto');
-
-
-body {
+body
+{
+    padding:0px;
     border: 0px;
     margin: 0px;
-    padding: 0px;
-    width:100%;
-    height: 100%;
+    width: 100%;
+    height:100%
+
 }
 
-
 @media screen and (min-width: 1020px) {
+
 }
